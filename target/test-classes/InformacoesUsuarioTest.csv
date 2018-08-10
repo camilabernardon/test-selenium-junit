@@ -1,0 +1,4 @@
+testAdicionarUmaInofrmacaoAdicionalDoUsuario,tipo,contato,mensagemEsperada,Duration(ms)
+"",Phone,+5592999999990,Your contact has been added!,728.0
+"",Phone,+5592999999991,Your contact has been added!,720.0
+"",E-mail,email@email.com,Your contact has been added!,762.0

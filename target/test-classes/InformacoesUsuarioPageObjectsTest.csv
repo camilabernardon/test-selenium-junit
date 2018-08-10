@@ -1,0 +1,3 @@
+testAdicionarUmaInofrmacaoAdicionalDoUsuario,login,password,tipo,contato,mensagemEsperada,Duration(ms),Duration(ms)
+"",camila.bernardon,123456,Phone,+9999999,Your contact has been added!,2640.0,2640.0
+"",camila.bernardon,123456,E-mail,email@email.com,Your contact has been added!,2713.0,2713.0
